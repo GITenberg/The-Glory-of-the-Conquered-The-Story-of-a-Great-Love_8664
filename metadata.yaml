@@ -1,0 +1,31 @@
+_repo: The-Glory-of-the-Conquered-The-Story-of-a-Great-Love_8664
+creator:
+  author:
+    agent_name: Glaspell, Susan
+    aliases:
+    - Glaspel, Susan
+    - Cook, Susan
+    - Cook, Mrs. George Cram
+    birthdate: 1876
+    deathdate: 1948
+    gutenberg_agent_id: '2446'
+    url: http://www.gutenberg.org/2009/agents/2446
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Glaspell
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Artists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+title: 'The Glory of the Conquered: The Story of a Great Love'
+url: http://www.gutenberg.org/ebooks/8664
